@@ -1,0 +1,22 @@
+# Vercel Ignore File
+# File dan folder yang tidak perlu di-deploy
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.vscode
+.idea
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentation (optional - uncomment jika tidak mau deploy)
+# README.md
+# REVISI_CHANGELOG.md
